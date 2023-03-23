@@ -1,1 +1,11 @@
 This is an automated subsonic test. No input is required.
+
+Git commands:
+
+git add <filename> - add file to staging area
+git commit - commits files in staging area to local branch
+git commit -m "comments" - commits with comments
+git push <where from> <to where> - pushes the local git repository to specified server branch
+
+git status - see the commit status of of the current git repository
+
